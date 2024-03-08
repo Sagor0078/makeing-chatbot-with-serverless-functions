@@ -1,1 +1,1 @@
-# makeing-chatbot-with-serverless-functions
+# makeing chatbot with serverless functions
